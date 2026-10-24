@@ -1,6 +1,6 @@
 # mcp-dice: A MCP Server for Rolling Dice
 
-[![smithery badge](https://smithery.ai/badge/mcp-dice)](https://smithery.ai/protocol/mcp-dice)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.yamaton/mcp-dice)](https://lightnow.ai/servers/io.github.yamaton/mcp-dice)
 ![screenshot](https://github.com/user-attachments/assets/ff7615b8-46ba-4be5-8287-8e1bf348ae28)
 
 A Model Context Protocol (MCP) server that enables Large Language Models (LLMs) to roll dice. It accepts standard dice notation (e.g., `1d20`) and returns both individual rolls and their sum.
